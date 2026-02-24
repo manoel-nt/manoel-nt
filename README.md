@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manoel;Senior+Backend+Engineer;10%2B+years+building+scalable+systems;Fintech+%7C+Healthtech+%7C+Government;Node.js+%7C+TypeScript+%7C+AWS" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manoel;Junior+Backend+Engineer;10%2B+years+building+scalable+systems;Fintech+%7C+Healthtech+%7C+Government;Node.js+%7C+TypeScript+%7C+AWS" alt="Typing animation" />
 
 <br/>
 
@@ -70,7 +70,6 @@ const manoel = {
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="36" height="36" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k9s/k9s-original.svg" alt="K9s" width="36" height="36" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="36" height="36" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="36" height="36" />
 
