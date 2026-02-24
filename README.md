@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Geovane;Senior+Backend+Engineer;10%2B+years+building+scalable+systems;Fintech+%7C+Healthtech+%7C+Government;Node.js+%7C+TypeScript+%7C+AWS" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manoel;Senior+Backend+Engineer;10%2B+years+building+scalable+systems;Fintech+%7C+Healthtech+%7C+Government;Node.js+%7C+TypeScript+%7C+AWS" alt="Typing animation" />
 
 <br/>
 
@@ -45,9 +45,7 @@ const manoel = {
 
 ### Connect
 
-<a href="https://www.linkedin.com/in/manoel-nt/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://medium.com/@manoel-nt"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-<a href="https://www.youtube.com/channel/UCGHi6EIwiDaMi4oXWllFmrg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.linkedin.com/in/manoel-moreira-b485a4217/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </td>
 <td width="50%" valign="top" align="center">
