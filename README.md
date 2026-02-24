@@ -28,21 +28,16 @@
 <tr>
 <td width="50%" valign="top">
 
-### About me
-
-Senior Backend Engineer with **15+ years** building scalable systems for **fintech**, **healthtech** and **government**. Expert in event-driven architectures, microservices and CI/CD pipelines. Additional experience in **blockchain**, **AI** (LLMs, RAG, prompt engineering) and infrastructure.
-
 ```js
-const geovane = {
-  role: "Senior Backend Engineer",
-  location: "São Paulo, Brazil",
-  languages: ["Node.js", "TypeScript", "Python", "PHP", "C#"],
-  frameworks: ["NestJS", "Express", "Adonis", "Laravel", "React"],
-  cloud: ["AWS", "GCP", "Docker", "Kubernetes"],
+const manoel = {
+  role: "Junior Backend Engineer",
+  location: "Bahia, Brazil",
+  languages: ["Node.js", "TypeScript", "Python", "C#"],
+  frameworks: ["NestJS", "Express", "React"],
+  cloud: [ "Docker", "Kubernetes"],
   databases: ["MySQL", "PostgreSQL", "DynamoDB", "Redis", "Oracle"],
-  interests: ["Blockchain", "AI/LLMs", "Open Source"],
-  education: "B.Sc. Information Systems — IFBA",
-  funFact: "Discovering the 7 wonders of the world (2/7 done)",
+  interests: ["Blockchain", "Game develop",],
+  education: "B.Sc. in Software Engineering — UNIASSELVI",
 };
 ```
 
@@ -65,23 +60,19 @@ const geovane = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="36" height="36" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="36" height="36" />
 
 **Frameworks**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="36" height="36" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="36" height="36" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="36" height="36" />
 
 **Cloud & DevOps**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="36" height="36" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="36" height="36" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="36" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k9s/k9s-original.svg" alt="K9s" width="36" height="36" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="36" height="36" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="36" height="36" />
 
@@ -91,7 +82,6 @@ const geovane = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" alt="DynamoDB" width="36" height="36" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="36" height="36" />
 
 **Monitoring**
 
