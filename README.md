@@ -32,11 +32,11 @@
 const manoel = {
   role: "Junior Backend Engineer",
   location: "Bahia, Brazil",
-  languages: ["Node.js", "TypeScript", "Python", "C#"],
+  languages: ["Node.js", "TypeScript",],
   frameworks: ["NestJS", "Express", "React"],
   cloud: [ "Docker", "Kubernetes"],
-  databases: ["MySQL", "PostgreSQL", "DynamoDB", "Redis", "Oracle"],
-  interests: ["Blockchain", "Game develop",],
+  databases: ["MySQL", "PostgreSQL", "Redis",],
+  interests: ["Game develop",],
   education: "B.Sc. in Software Engineering — UNIASSELVI",
 };
 ```
@@ -57,8 +57,6 @@ const manoel = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="36" height="36" />
 
 **Frameworks**
 
@@ -77,7 +75,6 @@ const manoel = {
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="36" height="36" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" alt="DynamoDB" width="36" height="36" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="36" height="36" />
 
 **Monitoring**
